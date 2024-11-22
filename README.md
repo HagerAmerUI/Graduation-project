@@ -12,10 +12,7 @@
   <img src= "https://mir-s3-cdn-cf.behance.net/project_modules/1400/f139e4211437705.6722bdf6db0cb.png" alt="17"/>
   <img src= "https://mir-s3-cdn-cf.behance.net/project_modules/1400/279904211437705.6722c2c9a376d.png" alt="17"/>
   <img src= "https://mir-s3-cdn-cf.behance.net/project_modules/1400/2a6f26211437705.6722c2c9a40d2.png" alt="17"/>
-  
-
-  <img src= "https://mir-s3-cdn-cf.behance.net/project_modules/1400/988043211437705.6725810893188.png" alt="17"/>
+  <img src= "https://mir-s3-cdn-cf.behance.net/project_modules/1400/202876211437705.6722d0f9b2d39.png" alt="17"/>
 
 
- <img src= "https://mir-s3-cdn-cf.behance.net/project_modules/1400/988043211437705.6725810893188.png" alt="17"/>
 
